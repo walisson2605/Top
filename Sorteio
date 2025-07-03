@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pix do Comentário com Mais Curtidas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #222;
+    }
+    p {
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 25px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+    }
+    a.button:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <h1>Sorteio de R$1.000,00 🎉</h1>
+  <p>Participe por apenas <strong>R$1,00</strong>!<br>Comente e peça curtidas — o comentário com mais likes leva o Pix 💸</p>
+  <a href="https://mpago.la/1KsiqZ4" class="button" target="_blank">Participar agora</a>
+</body>
+</html>
